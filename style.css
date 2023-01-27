@@ -1,0 +1,58 @@
+body{
+    overflow: hidden;
+}
+.inner-table{
+    height: 96vh;
+    width: 93vw;
+    border: 5px solid blue;
+    display: grid;
+    margin: 1px 1px;
+    justify-content:center
+}
+.most-inner{
+    height: 6vh;
+    width: 34vh;
+    border: 5px solid blue;
+    position: absolute;
+    top: 17%;
+    left: 12%;
+}
+.table-form{
+    height: 56vh;
+    width: 74vw;
+    border: 5px solid blue;
+    position: absolute;
+    top: 125px;
+    left: -4px;
+    font-size: 30pt;
+    text-align: center;
+    font-weight: 500;
+}
+.button{
+    height: 38px;
+    width: 100px;
+    position: absolute;
+    top: 70px;
+    left: 102px;
+    font-size: 20pt;
+    text-align: center;
+    font-weight: 500;
+    background-color: burlywood;
+}
+.table{
+    margin: 0px;
+
+}
+.input{
+    height: 5vh;
+    width: 71vw;
+    font-size: 39pt; 
+    text-align: center;   
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+    color:black;
+    font-size: 29pt;
+    font-weight: bolder;
+}
